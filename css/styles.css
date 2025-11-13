@@ -405,11 +405,6 @@ overflow: hidden;
     width: 1440px;
     margin: 0 auto;
 }
-.social-links-footer {
-    max-width: 208px;
-    display: flex;
-    flex-direction: column;
-}
 .title-footer {
     margin-bottom: 16px;
     line-height: 1.5;
