@@ -403,6 +403,7 @@ overflow: hidden;
 .container-footer {
     display: flex;
     align-items: baseline;
+    justify-content: flex-start;
     width: 1158px;
     margin: 0 auto;
 }
