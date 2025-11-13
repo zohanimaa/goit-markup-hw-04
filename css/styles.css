@@ -334,7 +334,7 @@ overflow: hidden;
     position: relative;
     overflow: hidden;
 }
-.portfolio-image:hover .portfolio-overley {
+.portfolio-image:hover .overley {
     transform: translateY(0);
 }
 .overley {
